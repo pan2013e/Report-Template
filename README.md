@@ -1,7 +1,7 @@
 # Report-Template
 A simple LaTeX template for CS courses in Zhejiang University
 
-## Install
+## Install on macOS
 * package `minted` requires `python`, `pygments` and its dependencies.
 
   Add `minted.sty` to the directory of your TeX distribution, generally `/usr/local/texlive/YOUR-VERSION/texmf-dist/tex/latex/base`, then run
