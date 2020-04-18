@@ -27,4 +27,4 @@ A simple LaTeX template for CS courses in Zhejiang University
 * add `-8bit` to compile options so that `TAB` can be displayed correctly in `minted` environment
 
 ## License
-MIT License © Zhiyuan Pan
+[MIT License](LICENSE) © Zhiyuan Pan
